@@ -59,4 +59,4 @@ After this result about connection would be saved inside ```../tmp/```.
 
 ### Example
 
-![example][example/map.png]
+![image](example/map.png)
