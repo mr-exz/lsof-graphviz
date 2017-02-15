@@ -1,0 +1,7 @@
+/vagrant/lsof-graphviz/.vagrant
+/vagrant/lsof-graphviz/config.rb
+/vagrant/lsof-graphviz/vagrant
+/vagrant/lsof-graphviz/vagrant.pub
+/tmp
+.idea
+.DS_Store
